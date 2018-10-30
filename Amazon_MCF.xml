@@ -1,6 +1,6 @@
 <_>
-   <form_key>JSYGXpDQVp3QMfGq</form_key>
-   <name>AmazonMCF</name>
+   <form_key>kdBiiR8bWlswTCpw</form_key>
+   <name>Amazon_MCF</name>
    <channel>community</channel>
    <version_ids>
       <version_ids>2</version_ids>
@@ -40,7 +40,7 @@
             <max/>
          </max>
          <files>
-            <files>   </files>
+            <files>    </files>
          </files>
       </package>
       <extension>
