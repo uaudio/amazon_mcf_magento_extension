@@ -9,9 +9,9 @@
    <description>Amazon MCF</description>
    <license>Apache License 2.0</license>
    <license_uri>https://github.com/amzn/amazon-mcf-plugin-for-magento-1/blob/master/LICENSE</license_uri>
-   <version>1.0.2</version>
+   <version>1.0.3</version>
    <stability>stable</stability>
-   <notes>1.0.2</notes>
+   <notes>1.0.3</notes>
    <authors>
       <name>
          <name>Joel Dodge</name>
